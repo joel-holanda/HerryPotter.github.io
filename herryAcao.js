@@ -47,35 +47,35 @@ const perguntas6 = {
     resposta: 'd'
 };
 const perguntas7 = {
-    pergunta: 'quanto é 2 + 2?',
-    alternativaA: '2', 
-    alternativaB: '3',
-    alternativaC: '4',
-    alternativaD: '5',
-    resposta: 'c'
+    pergunta: 'Quantas Horcrux existem?',
+    alternativaA: '4', 
+    alternativaB: '7',
+    alternativaC: '12',
+    alternativaD: '7',
+    resposta: 'b'
 };
 const perguntas8 = {
-    pergunta: 'quanto é 10 + 2?',
-    alternativaA: '12', 
-    alternativaB: '3',
-    alternativaC: '4',
-    alternativaD: '5',
+    pergunta: 'Quem matou Dumbledore',
+    alternativaA: 'Severo Snape', 
+    alternativaB: 'Hermiona',
+    alternativaC: 'Pele',
+    alternativaD: 'Herry Potter',
     resposta: 'a'
 };
 const perguntas9 = {
-    pergunta: 'quanto é 100 + 2?',
-    alternativaA: '12', 
-    alternativaB: '3',
-    alternativaC: '4',
-    alternativaD: '102',
+    pergunta: 'Que animal de estimação era de Voldemort e qual o seu nome?',
+    alternativaA: 'Gabirru, Mickey', 
+    alternativaB: 'Morcego, Batman',
+    alternativaC: 'Griffo, James',
+    alternativaD: 'Cobra, Nagini',
     resposta: 'd'
 };
 const perguntas10 = {
-    pergunta: 'qual o nome do melhor programador que voce conhece?(kkkkk)',
-    alternativaA: 'Joel Holanda', 
-    alternativaB: 'Silvo Santos',
-    alternativaC: 'Neymar',
-    alternativaD: 'Gugu ',
+    pergunta: 'Quem são os melhores amigos de Herry Potter',
+    alternativaA: 'Hermiobe e Rony', 
+    alternativaB: 'Kennedy e Draco',
+    alternativaC: 'Neymar e Dobby',
+    alternativaD: 'Sirius e Remo',
     resposta: 'a'
 };
 
